@@ -17,7 +17,7 @@ page_sections:
   headline: Dylan Karlsson<br><strong>mlis</strong>
   content: ''
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
