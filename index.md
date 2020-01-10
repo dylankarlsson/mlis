@@ -10,8 +10,8 @@ page_sections:
   - link: "/"
     link_text: Home
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: Dylan Karlsson<br><strong>mlis</strong>
