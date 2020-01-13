@@ -14,7 +14,7 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: Dylan Karlsson<br><strong>mlis</strong>
+  headline: Dylan Karlsson
   content: ''
   cta:
     enabled: false
